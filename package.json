@@ -1,0 +1,29 @@
+{
+  "name": "mmm-magic-seaweed",
+  "version": "1.0.0",
+  "description": "This is a MagicMirror 2 module to show surf conditions using the Magic Seaweed API.",
+  "main": "MMM-Magic-Seaweed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigel-daniels/MMM-Magic-Seaweed.git"
+  },
+  "keywords": [
+    "Magic",
+    "Mirror",
+    "Seaweed",
+    "Surf",
+    "Forecast"
+  ],
+  "author": "Nigel Daniels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nigel-daniels/MMM-Magic-Seaweed/issues"
+  },
+  "homepage": "https://github.com/nigel-daniels/MMM-Magic-Seaweed#readme",
+  "dependencies": {
+    "urllib": "^2.37.3"
+  }
+}
